@@ -1,0 +1,3537 @@
+[
+  {
+    "STEP": "",
+    "OK": "",
+    "COMM": "AK4",
+    "TCODE": "SYSID",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "",
+    "OK": "",
+    "COMM": "757",
+    "TCODE": "SYS RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "",
+    "OK": "",
+    "COMM": "99991231",
+    "TCODE": "LICENCE_EXPIRY",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "",
+    "OK": "",
+    "COMM": "0020841121",
+    "TCODE": "INST_NUMBER",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "",
+    "OK": "",
+    "COMM": "UNICODE",
+    "TCODE": "UNICODE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "",
+    "OK": "",
+    "COMM": "S/4 HANA OP",
+    "TCODE": "COMPONENT VERSION",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "SAP_BASIS",
+    "OK": "",
+    "COMM": "SAP_BASIS",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "SAP_BASIS",
+    "OK": "",
+    "COMM": "757",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "SAP_BASIS",
+    "OK": "",
+    "COMM": "0002",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "SAP_BASIS",
+    "OK": "",
+    "COMM": "SAPK-75702INSAPBASIS",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "SAP_BASIS",
+    "OK": "",
+    "COMM": "SAP Basis Component",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "SAP_ABA",
+    "OK": "",
+    "COMM": "SAP_ABA",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "SAP_ABA",
+    "OK": "",
+    "COMM": "75H",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "SAP_ABA",
+    "OK": "",
+    "COMM": "0002",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "SAP_ABA",
+    "OK": "",
+    "COMM": "SAPK-75H02INSAPABA",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "SAP_ABA",
+    "OK": "",
+    "COMM": "Cross-Application Component",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "SAP_GWFND",
+    "OK": "",
+    "COMM": "SAP_GWFND",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "SAP_GWFND",
+    "OK": "",
+    "COMM": "757",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "SAP_GWFND",
+    "OK": "",
+    "COMM": "0002",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "SAP_GWFND",
+    "OK": "",
+    "COMM": "SAPK-75702INSAPGWFND",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "SAP_GWFND",
+    "OK": "",
+    "COMM": "SAP Gateway Foundation",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "SAP_UI",
+    "OK": "",
+    "COMM": "SAP_UI",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "SAP_UI",
+    "OK": "",
+    "COMM": "757",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "SAP_UI",
+    "OK": "",
+    "COMM": "0003",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "SAP_UI",
+    "OK": "",
+    "COMM": "SAPK-75703INSAPUI",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "SAP_UI",
+    "OK": "",
+    "COMM": "User Interface Technology",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "ST-PI",
+    "OK": "",
+    "COMM": "ST-PI",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "ST-PI",
+    "OK": "",
+    "COMM": "740",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "ST-PI",
+    "OK": "",
+    "COMM": "0024",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "ST-PI",
+    "OK": "",
+    "COMM": "SAPK-74024INSTPI",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "ST-PI",
+    "OK": "",
+    "COMM": "SAP Solution Tools Plug-In",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "BI_CONT",
+    "OK": "",
+    "COMM": "BI_CONT",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "BI_CONT",
+    "OK": "",
+    "COMM": "757",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "BI_CONT",
+    "OK": "",
+    "COMM": "0033",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "BI_CONT",
+    "OK": "",
+    "COMM": "SAPK-75733INBICONT",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "BI_CONT",
+    "OK": "",
+    "COMM": "Business Intelligence Content",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "BI_CONT_XT",
+    "OK": "",
+    "COMM": "BI_CONT_XT",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "BI_CONT_XT",
+    "OK": "",
+    "COMM": "757",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "BI_CONT_XT",
+    "OK": "",
+    "COMM": "0033",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "BI_CONT_XT",
+    "OK": "",
+    "COMM": "SAPK-75733INBICONTXT",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "BI_CONT_XT",
+    "OK": "",
+    "COMM": "Business Intelligence Content for Bobj I",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "SAP_BW",
+    "OK": "",
+    "COMM": "SAP_BW",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "SAP_BW",
+    "OK": "",
+    "COMM": "757",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "SAP_BW",
+    "OK": "",
+    "COMM": "0002",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "SAP_BW",
+    "OK": "",
+    "COMM": "SAPK-75702INSAPBW",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "SAP_BW",
+    "OK": "",
+    "COMM": "SAP Business Warehouse",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "UIBAS001",
+    "OK": "",
+    "COMM": "UIBAS001",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "UIBAS001",
+    "OK": "",
+    "COMM": "757",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "UIBAS001",
+    "OK": "",
+    "COMM": "0002",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "UIBAS001",
+    "OK": "",
+    "COMM": "SAPK-75702INUIBAS001",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "UIBAS001",
+    "OK": "",
+    "COMM": "UI for Basis Applications",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "MDG_FND",
+    "OK": "",
+    "COMM": "MDG_FND",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "MDG_FND",
+    "OK": "",
+    "COMM": "807",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "MDG_FND",
+    "OK": "",
+    "COMM": "0002",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "MDG_FND",
+    "OK": "",
+    "COMM": "SAPK-80702INMDGFND",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "MDG_FND",
+    "OK": "",
+    "COMM": "S/4HANA MDG Foundation",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4FND",
+    "OK": "",
+    "COMM": "S4FND",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4FND",
+    "OK": "",
+    "COMM": "107",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4FND",
+    "OK": "",
+    "COMM": "0002",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4FND",
+    "OK": "",
+    "COMM": "SAPK-10702INS4FND",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4FND",
+    "OK": "",
+    "COMM": "S/4HANA Foundation",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "MDG_APPL",
+    "OK": "",
+    "COMM": "MDG_APPL",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "MDG_APPL",
+    "OK": "",
+    "COMM": "807",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "MDG_APPL",
+    "OK": "",
+    "COMM": "0002",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "MDG_APPL",
+    "OK": "",
+    "COMM": "SAPK-80702INMDGAPPL",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "MDG_APPL",
+    "OK": "",
+    "COMM": "S/4HANA MDG Applications",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4CEXT",
+    "OK": "",
+    "COMM": "S4CEXT",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4CEXT",
+    "OK": "",
+    "COMM": "107",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4CEXT",
+    "OK": "",
+    "COMM": "0002",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4CEXT",
+    "OK": "",
+    "COMM": "SAPK-10702INS4CEXT",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4CEXT",
+    "OK": "",
+    "COMM": "S/4HANA Applications EXT",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4CORE",
+    "OK": "",
+    "COMM": "S4CORE",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4CORE",
+    "OK": "",
+    "COMM": "107",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4CORE",
+    "OK": "",
+    "COMM": "0002",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4CORE",
+    "OK": "",
+    "COMM": "SAPK-10702INS4CORE",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4CORE",
+    "OK": "",
+    "COMM": "S/4HANA Core Applications 1",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCM",
+    "OK": "",
+    "COMM": "S4HCM",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCM",
+    "OK": "",
+    "COMM": "100",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCM",
+    "OK": "",
+    "COMM": "0006",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCM",
+    "OK": "",
+    "COMM": "SAPK-10006INS4HCM",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCM",
+    "OK": "",
+    "COMM": "Human Resources",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCAE",
+    "OK": "",
+    "COMM": "S4HCMCAE",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCAE",
+    "OK": "",
+    "COMM": "100",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCAE",
+    "OK": "",
+    "COMM": "0006",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCAE",
+    "OK": "",
+    "COMM": "SAPK-10006INS4HCMCAE",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCAE",
+    "OK": "",
+    "COMM": "Subcomponent S4HCMCAE of S4HCM",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCAR",
+    "OK": "",
+    "COMM": "S4HCMCAR",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCAR",
+    "OK": "",
+    "COMM": "100",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCAR",
+    "OK": "",
+    "COMM": "0006",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCAR",
+    "OK": "",
+    "COMM": "SAPK-10006INS4HCMCAR",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCAR",
+    "OK": "",
+    "COMM": "Subcomponent S4HCMCAR of S4HCM",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCAT",
+    "OK": "",
+    "COMM": "S4HCMCAT",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCAT",
+    "OK": "",
+    "COMM": "100",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCAT",
+    "OK": "",
+    "COMM": "0006",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCAT",
+    "OK": "",
+    "COMM": "SAPK-10006INS4HCMCAT",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCAT",
+    "OK": "",
+    "COMM": "Subcomponent S4HCMCAT of S4HCM",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCAU",
+    "OK": "",
+    "COMM": "S4HCMCAU",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCAU",
+    "OK": "",
+    "COMM": "100",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCAU",
+    "OK": "",
+    "COMM": "0006",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCAU",
+    "OK": "",
+    "COMM": "SAPK-10006INS4HCMCAU",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCAU",
+    "OK": "",
+    "COMM": "Subcomponent S4HCMCAU of S4HCM",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCBE",
+    "OK": "",
+    "COMM": "S4HCMCBE",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCBE",
+    "OK": "",
+    "COMM": "100",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCBE",
+    "OK": "",
+    "COMM": "0006",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCBE",
+    "OK": "",
+    "COMM": "SAPK-10006INS4HCMCBE",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCBE",
+    "OK": "",
+    "COMM": "Subcomponent S4HCMCBE of S4HCM",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCBG",
+    "OK": "",
+    "COMM": "S4HCMCBG",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCBG",
+    "OK": "",
+    "COMM": "100",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCBG",
+    "OK": "",
+    "COMM": "0006",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCBG",
+    "OK": "",
+    "COMM": "SAPK-10006INS4HCMCBG",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCBG",
+    "OK": "",
+    "COMM": "Subcomponent S4HCMCBG of S4HCM",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCBR",
+    "OK": "",
+    "COMM": "S4HCMCBR",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCBR",
+    "OK": "",
+    "COMM": "100",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCBR",
+    "OK": "",
+    "COMM": "0006",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCBR",
+    "OK": "",
+    "COMM": "SAPK-10006INS4HCMCBR",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCBR",
+    "OK": "",
+    "COMM": "Subcomponent S4HCMCBR of S4HCM",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCCA",
+    "OK": "",
+    "COMM": "S4HCMCCA",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCCA",
+    "OK": "",
+    "COMM": "100",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCCA",
+    "OK": "",
+    "COMM": "0006",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCCA",
+    "OK": "",
+    "COMM": "SAPK-10006INS4HCMCCA",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCCA",
+    "OK": "",
+    "COMM": "Subcomponent S4HCMCCA of S4HCM",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCCH",
+    "OK": "",
+    "COMM": "S4HCMCCH",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCCH",
+    "OK": "",
+    "COMM": "100",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCCH",
+    "OK": "",
+    "COMM": "0006",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCCH",
+    "OK": "",
+    "COMM": "SAPK-10006INS4HCMCCH",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCCH",
+    "OK": "",
+    "COMM": "Subcomponent S4HCMCCH of S4HCM",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCCL",
+    "OK": "",
+    "COMM": "S4HCMCCL",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCCL",
+    "OK": "",
+    "COMM": "100",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCCL",
+    "OK": "",
+    "COMM": "0006",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCCL",
+    "OK": "",
+    "COMM": "SAPK-10006INS4HCMCCL",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCCL",
+    "OK": "",
+    "COMM": "Subcomponent S4HCMCCL of S4HCM",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCCN",
+    "OK": "",
+    "COMM": "S4HCMCCN",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCCN",
+    "OK": "",
+    "COMM": "100",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCCN",
+    "OK": "",
+    "COMM": "0006",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCCN",
+    "OK": "",
+    "COMM": "SAPK-10006INS4HCMCCN",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCCN",
+    "OK": "",
+    "COMM": "Subcomponent S4HCMCCN of S4HCM",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCCO",
+    "OK": "",
+    "COMM": "S4HCMCCO",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCCO",
+    "OK": "",
+    "COMM": "100",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCCO",
+    "OK": "",
+    "COMM": "0006",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCCO",
+    "OK": "",
+    "COMM": "SAPK-10006INS4HCMCCO",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCCO",
+    "OK": "",
+    "COMM": "Subcomponent S4HCMCCO of S4HCM",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCCZ",
+    "OK": "",
+    "COMM": "S4HCMCCZ",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCCZ",
+    "OK": "",
+    "COMM": "100",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCCZ",
+    "OK": "",
+    "COMM": "0006",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCCZ",
+    "OK": "",
+    "COMM": "SAPK-10006INS4HCMCCZ",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCCZ",
+    "OK": "",
+    "COMM": "Subcomponent S4HCMCCZ of S4HCM",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCDE",
+    "OK": "",
+    "COMM": "S4HCMCDE",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCDE",
+    "OK": "",
+    "COMM": "100",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCDE",
+    "OK": "",
+    "COMM": "0006",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCDE",
+    "OK": "",
+    "COMM": "SAPK-10006INS4HCMCDE",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCDE",
+    "OK": "",
+    "COMM": "Subcomponent S4HCMCDE of S4HCM",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCDK",
+    "OK": "",
+    "COMM": "S4HCMCDK",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCDK",
+    "OK": "",
+    "COMM": "100",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCDK",
+    "OK": "",
+    "COMM": "0006",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCDK",
+    "OK": "",
+    "COMM": "SAPK-10006INS4HCMCDK",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCDK",
+    "OK": "",
+    "COMM": "Subcomponent S4HCMCDK of S4HCM",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCEG",
+    "OK": "",
+    "COMM": "S4HCMCEG",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCEG",
+    "OK": "",
+    "COMM": "100",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCEG",
+    "OK": "",
+    "COMM": "0006",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCEG",
+    "OK": "",
+    "COMM": "SAPK-10006INS4HCMCEG",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCEG",
+    "OK": "",
+    "COMM": "Subcomponent S4HCMCEG of S4HCM",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCES",
+    "OK": "",
+    "COMM": "S4HCMCES",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCES",
+    "OK": "",
+    "COMM": "100",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCES",
+    "OK": "",
+    "COMM": "0006",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCES",
+    "OK": "",
+    "COMM": "SAPK-10006INS4HCMCES",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCES",
+    "OK": "",
+    "COMM": "Subcomponent S4HCMCES of S4HCM",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCFI",
+    "OK": "",
+    "COMM": "S4HCMCFI",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCFI",
+    "OK": "",
+    "COMM": "100",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCFI",
+    "OK": "",
+    "COMM": "0006",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCFI",
+    "OK": "",
+    "COMM": "SAPK-10006INS4HCMCFI",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCFI",
+    "OK": "",
+    "COMM": "Subcomponent S4HCMCFI of S4HCM",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCFR",
+    "OK": "",
+    "COMM": "S4HCMCFR",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCFR",
+    "OK": "",
+    "COMM": "100",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCFR",
+    "OK": "",
+    "COMM": "0006",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCFR",
+    "OK": "",
+    "COMM": "SAPK-10006INS4HCMCFR",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCFR",
+    "OK": "",
+    "COMM": "Subcomponent S4HCMCFR of S4HCM",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCGB",
+    "OK": "",
+    "COMM": "S4HCMCGB",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCGB",
+    "OK": "",
+    "COMM": "100",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCGB",
+    "OK": "",
+    "COMM": "0006",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCGB",
+    "OK": "",
+    "COMM": "SAPK-10006INS4HCMCGB",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCGB",
+    "OK": "",
+    "COMM": "Subcomponent S4HCMCGB of S4HCM",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCGR",
+    "OK": "",
+    "COMM": "S4HCMCGR",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCGR",
+    "OK": "",
+    "COMM": "100",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCGR",
+    "OK": "",
+    "COMM": "0006",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCGR",
+    "OK": "",
+    "COMM": "SAPK-10006INS4HCMCGR",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCGR",
+    "OK": "",
+    "COMM": "Subcomponent S4HCMCGR of S4HCM",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCHK",
+    "OK": "",
+    "COMM": "S4HCMCHK",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCHK",
+    "OK": "",
+    "COMM": "100",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCHK",
+    "OK": "",
+    "COMM": "0006",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCHK",
+    "OK": "",
+    "COMM": "SAPK-10006INS4HCMCHK",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCHK",
+    "OK": "",
+    "COMM": "Subcomponent S4HCMCHK of S4HCM",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCHR",
+    "OK": "",
+    "COMM": "S4HCMCHR",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCHR",
+    "OK": "",
+    "COMM": "100",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCHR",
+    "OK": "",
+    "COMM": "0006",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCHR",
+    "OK": "",
+    "COMM": "SAPK-10006INS4HCMCHR",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCHR",
+    "OK": "",
+    "COMM": "Subcomponent S4HCMCHR of S4HCM",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCHU",
+    "OK": "",
+    "COMM": "S4HCMCHU",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCHU",
+    "OK": "",
+    "COMM": "100",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCHU",
+    "OK": "",
+    "COMM": "0006",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCHU",
+    "OK": "",
+    "COMM": "SAPK-10006INS4HCMCHU",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCHU",
+    "OK": "",
+    "COMM": "Subcomponent S4HCMCHU of S4HCM",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCID",
+    "OK": "",
+    "COMM": "S4HCMCID",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCID",
+    "OK": "",
+    "COMM": "100",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCID",
+    "OK": "",
+    "COMM": "0006",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCID",
+    "OK": "",
+    "COMM": "SAPK-10006INS4HCMCID",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCID",
+    "OK": "",
+    "COMM": "Subcomponent S4HCMCID of S4HCM",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCIE",
+    "OK": "",
+    "COMM": "S4HCMCIE",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCIE",
+    "OK": "",
+    "COMM": "100",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCIE",
+    "OK": "",
+    "COMM": "0006",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCIE",
+    "OK": "",
+    "COMM": "SAPK-10006INS4HCMCIE",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCIE",
+    "OK": "",
+    "COMM": "Subcomponent S4HCMCIE of S4HCM",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCIN",
+    "OK": "",
+    "COMM": "S4HCMCIN",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCIN",
+    "OK": "",
+    "COMM": "100",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCIN",
+    "OK": "",
+    "COMM": "0006",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCIN",
+    "OK": "",
+    "COMM": "SAPK-10006INS4HCMCIN",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCIN",
+    "OK": "",
+    "COMM": "Subcomponent S4HCMCIN of S4HCM",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCIT",
+    "OK": "",
+    "COMM": "S4HCMCIT",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCIT",
+    "OK": "",
+    "COMM": "100",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCIT",
+    "OK": "",
+    "COMM": "0006",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCIT",
+    "OK": "",
+    "COMM": "SAPK-10006INS4HCMCIT",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCIT",
+    "OK": "",
+    "COMM": "Subcomponent S4HCMCIT of S4HCM",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCJP",
+    "OK": "",
+    "COMM": "S4HCMCJP",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCJP",
+    "OK": "",
+    "COMM": "100",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCJP",
+    "OK": "",
+    "COMM": "0006",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCJP",
+    "OK": "",
+    "COMM": "SAPK-10006INS4HCMCJP",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCJP",
+    "OK": "",
+    "COMM": "Subcomponent S4HCMCJP of S4HCM",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCKR",
+    "OK": "",
+    "COMM": "S4HCMCKR",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCKR",
+    "OK": "",
+    "COMM": "100",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCKR",
+    "OK": "",
+    "COMM": "0006",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCKR",
+    "OK": "",
+    "COMM": "SAPK-10006INS4HCMCKR",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCKR",
+    "OK": "",
+    "COMM": "Subcomponent S4HCMCKR of S4HCM",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCKW",
+    "OK": "",
+    "COMM": "S4HCMCKW",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCKW",
+    "OK": "",
+    "COMM": "100",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCKW",
+    "OK": "",
+    "COMM": "0006",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCKW",
+    "OK": "",
+    "COMM": "SAPK-10006INS4HCMCKW",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCKW",
+    "OK": "",
+    "COMM": "Subcomponent S4HCMCKW of S4HCM",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCKZ",
+    "OK": "",
+    "COMM": "S4HCMCKZ",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCKZ",
+    "OK": "",
+    "COMM": "100",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCKZ",
+    "OK": "",
+    "COMM": "0006",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCKZ",
+    "OK": "",
+    "COMM": "SAPK-10006INS4HCMCKZ",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCKZ",
+    "OK": "",
+    "COMM": "Subcomponent S4HCMCKZ of S4HCM",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCMX",
+    "OK": "",
+    "COMM": "S4HCMCMX",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCMX",
+    "OK": "",
+    "COMM": "100",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCMX",
+    "OK": "",
+    "COMM": "0006",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCMX",
+    "OK": "",
+    "COMM": "SAPK-10006INS4HCMCMX",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCMX",
+    "OK": "",
+    "COMM": "Subcomponent S4HCMCMX of S4HCM",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCMY",
+    "OK": "",
+    "COMM": "S4HCMCMY",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCMY",
+    "OK": "",
+    "COMM": "100",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCMY",
+    "OK": "",
+    "COMM": "0006",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCMY",
+    "OK": "",
+    "COMM": "SAPK-10006INS4HCMCMY",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCMY",
+    "OK": "",
+    "COMM": "Subcomponent S4HCMCMY of S4HCM",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCNL",
+    "OK": "",
+    "COMM": "S4HCMCNL",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCNL",
+    "OK": "",
+    "COMM": "100",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCNL",
+    "OK": "",
+    "COMM": "0006",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCNL",
+    "OK": "",
+    "COMM": "SAPK-10006INS4HCMCNL",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCNL",
+    "OK": "",
+    "COMM": "Subcomponent S4HCMCNL of S4HCM",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCNO",
+    "OK": "",
+    "COMM": "S4HCMCNO",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCNO",
+    "OK": "",
+    "COMM": "100",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCNO",
+    "OK": "",
+    "COMM": "0006",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCNO",
+    "OK": "",
+    "COMM": "SAPK-10006INS4HCMCNO",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCNO",
+    "OK": "",
+    "COMM": "Subcomponent S4HCMCNO of S4HCM",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCNZ",
+    "OK": "",
+    "COMM": "S4HCMCNZ",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCNZ",
+    "OK": "",
+    "COMM": "100",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCNZ",
+    "OK": "",
+    "COMM": "0006",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCNZ",
+    "OK": "",
+    "COMM": "SAPK-10006INS4HCMCNZ",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCNZ",
+    "OK": "",
+    "COMM": "Subcomponent S4HCMCNZ of S4HCM",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCOM",
+    "OK": "",
+    "COMM": "S4HCMCOM",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCOM",
+    "OK": "",
+    "COMM": "100",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCOM",
+    "OK": "",
+    "COMM": "0006",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCOM",
+    "OK": "",
+    "COMM": "SAPK-10006INS4HCMCOM",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCOM",
+    "OK": "",
+    "COMM": "Subcomponent S4HCMCOM of S4HCM",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCPH",
+    "OK": "",
+    "COMM": "S4HCMCPH",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCPH",
+    "OK": "",
+    "COMM": "100",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCPH",
+    "OK": "",
+    "COMM": "0006",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCPH",
+    "OK": "",
+    "COMM": "SAPK-10006INS4HCMCPH",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCPH",
+    "OK": "",
+    "COMM": "Subcomponent S4HCMCPH of S4HCM",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCPL",
+    "OK": "",
+    "COMM": "S4HCMCPL",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCPL",
+    "OK": "",
+    "COMM": "100",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCPL",
+    "OK": "",
+    "COMM": "0006",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCPL",
+    "OK": "",
+    "COMM": "SAPK-10006INS4HCMCPL",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCPL",
+    "OK": "",
+    "COMM": "Subcomponent S4HCMCPL of S4HCM",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCPT",
+    "OK": "",
+    "COMM": "S4HCMCPT",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCPT",
+    "OK": "",
+    "COMM": "100",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCPT",
+    "OK": "",
+    "COMM": "0006",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCPT",
+    "OK": "",
+    "COMM": "SAPK-10006INS4HCMCPT",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCPT",
+    "OK": "",
+    "COMM": "Subcomponent S4HCMCPT of S4HCM",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCQA",
+    "OK": "",
+    "COMM": "S4HCMCQA",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCQA",
+    "OK": "",
+    "COMM": "100",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCQA",
+    "OK": "",
+    "COMM": "0006",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCQA",
+    "OK": "",
+    "COMM": "SAPK-10006INS4HCMCQA",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCQA",
+    "OK": "",
+    "COMM": "Subcomponent S4HCMCQA of S4HCM",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCRO",
+    "OK": "",
+    "COMM": "S4HCMCRO",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCRO",
+    "OK": "",
+    "COMM": "100",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCRO",
+    "OK": "",
+    "COMM": "0006",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCRO",
+    "OK": "",
+    "COMM": "SAPK-10006INS4HCMCRO",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCRO",
+    "OK": "",
+    "COMM": "Subcomponent S4HCMCRO of S4HCM",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCRU",
+    "OK": "",
+    "COMM": "S4HCMCRU",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCRU",
+    "OK": "",
+    "COMM": "100",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCRU",
+    "OK": "",
+    "COMM": "0006",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCRU",
+    "OK": "",
+    "COMM": "SAPK-10006INS4HCMCRU",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCRU",
+    "OK": "",
+    "COMM": "Subcomponent S4HCMCRU of S4HCM",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCSA",
+    "OK": "",
+    "COMM": "S4HCMCSA",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCSA",
+    "OK": "",
+    "COMM": "100",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCSA",
+    "OK": "",
+    "COMM": "0006",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCSA",
+    "OK": "",
+    "COMM": "SAPK-10006INS4HCMCSA",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCSA",
+    "OK": "",
+    "COMM": "Subcomponent S4HCMCSA of S4HCM",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCSE",
+    "OK": "",
+    "COMM": "S4HCMCSE",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCSE",
+    "OK": "",
+    "COMM": "100",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCSE",
+    "OK": "",
+    "COMM": "0006",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCSE",
+    "OK": "",
+    "COMM": "SAPK-10006INS4HCMCSE",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCSE",
+    "OK": "",
+    "COMM": "Subcomponent S4HCMCSE of S4HCM",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCSG",
+    "OK": "",
+    "COMM": "S4HCMCSG",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCSG",
+    "OK": "",
+    "COMM": "100",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCSG",
+    "OK": "",
+    "COMM": "0006",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCSG",
+    "OK": "",
+    "COMM": "SAPK-10006INS4HCMCSG",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCSG",
+    "OK": "",
+    "COMM": "Subcomponent S4HCMCSG of S4HCM",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCSI",
+    "OK": "",
+    "COMM": "S4HCMCSI",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCSI",
+    "OK": "",
+    "COMM": "100",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCSI",
+    "OK": "",
+    "COMM": "0006",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCSI",
+    "OK": "",
+    "COMM": "SAPK-10006INS4HCMCSI",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCSI",
+    "OK": "",
+    "COMM": "Subcomponent S4HCMCSI of S4HCM",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCSK",
+    "OK": "",
+    "COMM": "S4HCMCSK",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCSK",
+    "OK": "",
+    "COMM": "100",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCSK",
+    "OK": "",
+    "COMM": "0006",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCSK",
+    "OK": "",
+    "COMM": "SAPK-10006INS4HCMCSK",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCSK",
+    "OK": "",
+    "COMM": "Subcomponent S4HCMCSK of S4HCM",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCTH",
+    "OK": "",
+    "COMM": "S4HCMCTH",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCTH",
+    "OK": "",
+    "COMM": "100",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCTH",
+    "OK": "",
+    "COMM": "0006",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCTH",
+    "OK": "",
+    "COMM": "SAPK-10006INS4HCMCTH",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCTH",
+    "OK": "",
+    "COMM": "Subcomponent S4HCMCTH of S4HCM",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCTR",
+    "OK": "",
+    "COMM": "S4HCMCTR",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCTR",
+    "OK": "",
+    "COMM": "100",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCTR",
+    "OK": "",
+    "COMM": "0006",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCTR",
+    "OK": "",
+    "COMM": "SAPK-10006INS4HCMCTR",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCTR",
+    "OK": "",
+    "COMM": "Subcomponent S4HCMCTR of S4HCM",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCTW",
+    "OK": "",
+    "COMM": "S4HCMCTW",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCTW",
+    "OK": "",
+    "COMM": "100",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCTW",
+    "OK": "",
+    "COMM": "0006",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCTW",
+    "OK": "",
+    "COMM": "SAPK-10006INS4HCMCTW",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCTW",
+    "OK": "",
+    "COMM": "Subcomponent S4HCMCTW of S4HCM",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCUA",
+    "OK": "",
+    "COMM": "S4HCMCUA",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCUA",
+    "OK": "",
+    "COMM": "100",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCUA",
+    "OK": "",
+    "COMM": "0006",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCUA",
+    "OK": "",
+    "COMM": "SAPK-10006INS4HCMCUA",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCUA",
+    "OK": "",
+    "COMM": "Subcomponent S4HCMCUA of S4HCM",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCUN",
+    "OK": "",
+    "COMM": "S4HCMCUN",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCUN",
+    "OK": "",
+    "COMM": "100",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCUN",
+    "OK": "",
+    "COMM": "0006",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCUN",
+    "OK": "",
+    "COMM": "SAPK-10006INS4HCMCUN",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCUN",
+    "OK": "",
+    "COMM": "Subcomponent S4HCMCUN of S4HCM",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCUS",
+    "OK": "",
+    "COMM": "S4HCMCUS",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCUS",
+    "OK": "",
+    "COMM": "100",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCUS",
+    "OK": "",
+    "COMM": "0006",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCUS",
+    "OK": "",
+    "COMM": "SAPK-10006INS4HCMCUS",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCUS",
+    "OK": "",
+    "COMM": "Subcomponent S4HCMCUS of S4HCM",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCVE",
+    "OK": "",
+    "COMM": "S4HCMCVE",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCVE",
+    "OK": "",
+    "COMM": "100",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCVE",
+    "OK": "",
+    "COMM": "0006",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCVE",
+    "OK": "",
+    "COMM": "SAPK-10006INS4HCMCVE",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCVE",
+    "OK": "",
+    "COMM": "Subcomponent S4HCMCVE of S4HCM",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCZA",
+    "OK": "",
+    "COMM": "S4HCMCZA",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCZA",
+    "OK": "",
+    "COMM": "100",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCZA",
+    "OK": "",
+    "COMM": "0006",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCZA",
+    "OK": "",
+    "COMM": "SAPK-10006INS4HCMCZA",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMCZA",
+    "OK": "",
+    "COMM": "Subcomponent S4HCMCZA of S4HCM",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMGXX",
+    "OK": "",
+    "COMM": "S4HCMGXX",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMGXX",
+    "OK": "",
+    "COMM": "100",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMGXX",
+    "OK": "",
+    "COMM": "0006",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMGXX",
+    "OK": "",
+    "COMM": "SAPK-10006INS4HCMGXX",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMGXX",
+    "OK": "",
+    "COMM": "Subcomponent S4HCMGXX of S4HCM",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMRXX",
+    "OK": "",
+    "COMM": "S4HCMRXX",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMRXX",
+    "OK": "",
+    "COMM": "100",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMRXX",
+    "OK": "",
+    "COMM": "0006",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMRXX",
+    "OK": "",
+    "COMM": "SAPK-10006INS4HCMRXX",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4HCMRXX",
+    "OK": "",
+    "COMM": "Subcomponent S4HCMRXX of S4HCM",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "EA-DFPS",
+    "OK": "",
+    "COMM": "EA-DFPS",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "EA-DFPS",
+    "OK": "",
+    "COMM": "807",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "EA-DFPS",
+    "OK": "",
+    "COMM": "0002",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "EA-DFPS",
+    "OK": "",
+    "COMM": "SAPK-80702INEADFPS",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "EA-DFPS",
+    "OK": "",
+    "COMM": "S/4HANA DFPS",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "EA-PS",
+    "OK": "",
+    "COMM": "EA-PS",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "EA-PS",
+    "OK": "",
+    "COMM": "807",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "EA-PS",
+    "OK": "",
+    "COMM": "0002",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "EA-PS",
+    "OK": "",
+    "COMM": "SAPK-80702INEAPS",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "EA-PS",
+    "OK": "",
+    "COMM": "S/4HANA PS",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "FI-CAX",
+    "OK": "",
+    "COMM": "FI-CAX",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "FI-CAX",
+    "OK": "",
+    "COMM": "807",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "FI-CAX",
+    "OK": "",
+    "COMM": "0002",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "FI-CAX",
+    "OK": "",
+    "COMM": "SAPK-80702INFICAX",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "FI-CAX",
+    "OK": "",
+    "COMM": "S/4HANA FI-CA Extended",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "IS-OIL",
+    "OK": "",
+    "COMM": "IS-OIL",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "IS-OIL",
+    "OK": "",
+    "COMM": "807",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "IS-OIL",
+    "OK": "",
+    "COMM": "0002",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "IS-OIL",
+    "OK": "",
+    "COMM": "SAPK-80702INISOIL",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "IS-OIL",
+    "OK": "",
+    "COMM": "S/4HANA IS-OIL",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "IS-PRA",
+    "OK": "",
+    "COMM": "IS-PRA",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "IS-PRA",
+    "OK": "",
+    "COMM": "807",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "IS-PRA",
+    "OK": "",
+    "COMM": "0002",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "IS-PRA",
+    "OK": "",
+    "COMM": "SAPK-80702INISPRA",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "IS-PRA",
+    "OK": "",
+    "COMM": "S/4HANA IS-PRA",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "IS-PS-CA",
+    "OK": "",
+    "COMM": "IS-PS-CA",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "IS-PS-CA",
+    "OK": "",
+    "COMM": "807",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "IS-PS-CA",
+    "OK": "",
+    "COMM": "0002",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "IS-PS-CA",
+    "OK": "",
+    "COMM": "SAPK-80702INISPSCA",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "IS-PS-CA",
+    "OK": "",
+    "COMM": "S/4HANA IS-PS-CA",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "IS-UT",
+    "OK": "",
+    "COMM": "IS-UT",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "IS-UT",
+    "OK": "",
+    "COMM": "807",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "IS-UT",
+    "OK": "",
+    "COMM": "0002",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "IS-UT",
+    "OK": "",
+    "COMM": "SAPK-80702INISUT",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "IS-UT",
+    "OK": "",
+    "COMM": "S/4HANA IS-UT",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4COREOP",
+    "OK": "",
+    "COMM": "S4COREOP",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4COREOP",
+    "OK": "",
+    "COMM": "107",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4COREOP",
+    "OK": "",
+    "COMM": "0002",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4COREOP",
+    "OK": "",
+    "COMM": "SAPK-10702INS4COREOP",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4COREOP",
+    "OK": "",
+    "COMM": "S/4HANA Core Applications 2",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4DEPREC",
+    "OK": "",
+    "COMM": "S4DEPREC",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4DEPREC",
+    "OK": "",
+    "COMM": "107",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4DEPREC",
+    "OK": "",
+    "COMM": "0002",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4DEPREC",
+    "OK": "",
+    "COMM": "SAPK-10702INS4DEPREC",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "S4DEPREC",
+    "OK": "",
+    "COMM": "S/4HANA Core Applications 3",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "GBX01HR5",
+    "OK": "",
+    "COMM": "GBX01HR5",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "GBX01HR5",
+    "OK": "",
+    "COMM": "605",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "GBX01HR5",
+    "OK": "",
+    "COMM": "0025",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "GBX01HR5",
+    "OK": "",
+    "COMM": "SAPK-60525INGBX01HR5",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "GBX01HR5",
+    "OK": "",
+    "COMM": "GBX01HR5 605",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "UIAPFI70",
+    "OK": "",
+    "COMM": "UIAPFI70",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "UIAPFI70",
+    "OK": "",
+    "COMM": "901",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "UIAPFI70",
+    "OK": "",
+    "COMM": "0002",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "UIAPFI70",
+    "OK": "",
+    "COMM": "SAPK-90102INUIAPFI70",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "UIAPFI70",
+    "OK": "",
+    "COMM": "UI SFIN",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "UIHR002",
+    "OK": "",
+    "COMM": "UIHR002",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "UIHR002",
+    "OK": "",
+    "COMM": "100",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "UIHR002",
+    "OK": "",
+    "COMM": "0021",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "UIHR002",
+    "OK": "",
+    "COMM": "SAPK-10021INUIHR002",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "UIHR002",
+    "OK": "",
+    "COMM": "UI for ERP Human Capital Management 100",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "UIMDG001",
+    "OK": "",
+    "COMM": "UIMDG001",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "UIMDG001",
+    "OK": "",
+    "COMM": "200",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "UIMDG001",
+    "OK": "",
+    "COMM": "0012",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "UIMDG001",
+    "OK": "",
+    "COMM": "SAPK-20012INUIMDG001",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "UIMDG001",
+    "OK": "",
+    "COMM": "UI for MDG",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "UIS4HOP1",
+    "OK": "",
+    "COMM": "UIS4HOP1",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "UIS4HOP1",
+    "OK": "",
+    "COMM": "800",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "UIS4HOP1",
+    "OK": "",
+    "COMM": "0002",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "UIS4HOP1",
+    "OK": "",
+    "COMM": "SAPK-80002INUIS4HOP1",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "UIS4HOP1",
+    "OK": "",
+    "COMM": "UI for S/4HANA On Premise",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "UITRV001",
+    "OK": "",
+    "COMM": "UITRV001",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "UITRV001",
+    "OK": "",
+    "COMM": "300",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "UITRV001",
+    "OK": "",
+    "COMM": "0009",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "UITRV001",
+    "OK": "",
+    "COMM": "SAPK-30009INUITRV001",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "UITRV001",
+    "OK": "",
+    "COMM": "UI for Travel 300: Add-On Installation",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "ST-A/PI",
+    "OK": "",
+    "COMM": "ST-A/PI",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "ST-A/PI",
+    "OK": "",
+    "COMM": "01V_731",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "ST-A/PI",
+    "OK": "",
+    "COMM": "0002",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "ST-A/PI",
+    "OK": "",
+    "COMM": "SAPKITABC5",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "ST-A/PI",
+    "OK": "",
+    "COMM": "Servicetools for SAP Basis 731 and highe",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "HOME",
+    "OK": "",
+    "COMM": "HOME",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "HOME",
+    "OK": "",
+    "COMM": "DEV",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "HOME",
+    "OK": "",
+    "COMM": "0000",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "HOME",
+    "OK": "",
+    "COMM": "",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "HOME",
+    "OK": "",
+    "COMM": "Customer Development (Standard)",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "LOCAL",
+    "OK": "",
+    "COMM": "LOCAL",
+    "TCODE": "COMPONENT",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "LOCAL",
+    "OK": "",
+    "COMM": "DEV",
+    "TCODE": "COMPONENT RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "LOCAL",
+    "OK": "",
+    "COMM": "0000",
+    "TCODE": "COMPONENT LEVEL",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "LOCAL",
+    "OK": "",
+    "COMM": "",
+    "TCODE": "COMPONENT PACKAGE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "LOCAL",
+    "OK": "",
+    "COMM": "System Local Development (Standard)",
+    "TCODE": "COMPONENT DESCR",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "",
+    "OK": "",
+    "COMM": "HK4/00",
+    "TCODE": "DB NAME",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "",
+    "OK": "",
+    "COMM": "dxbktldhna03",
+    "TCODE": "DB HOST",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "",
+    "OK": "",
+    "COMM": "SAPHANADB",
+    "TCODE": "DB OWNER",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "",
+    "OK": "",
+    "COMM": "HDB",
+    "TCODE": "DB",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "",
+    "OK": "",
+    "COMM": "2.00.059.05.1662044871",
+    "TCODE": "DB RELEASE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "dxbktlds4cp_AK4_00",
+    "OK": "",
+    "COMM": "dxbktlds4cp_AK4_00",
+    "TCODE": "INSTANCE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "dxbktlds4cp_AK4_00",
+    "OK": "",
+    "COMM": "dxbktlds4cp",
+    "TCODE": "HOSTNAME",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "dxbktlds4cp_AK4_00",
+    "OK": "",
+    "COMM": "757",
+    "TCODE": "SAP version",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "dxbktlds4cp_AK4_00",
+    "OK": "",
+    "COMM": "Linux",
+    "TCODE": "operating system",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "dxbktlds4cp_AK4_00",
+    "OK": "",
+    "COMM": "x86_64",
+    "TCODE": "machine type",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "dxbktlds4cp_AK4_00",
+    "OK": "",
+    "COMM": "dxbktlds4cp",
+    "TCODE": "node name",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "dxbktlds4cp_AK4_00",
+    "OK": "",
+    "COMM": "390",
+    "TCODE": "SAP system id",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "dxbktlds4cp_AK4_00",
+    "OK": "",
+    "COMM": "HDB",
+    "TCODE": "database system",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "dxbktlds4cp_AK4_00",
+    "OK": "",
+    "COMM": "AK4",
+    "TCODE": "database name",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "dxbktlds4cp_AK4_00",
+    "OK": "",
+    "COMM": "dxbktldhna03",
+    "TCODE": "database host",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "dxbktlds4cp_AK4_00",
+    "OK": "",
+    "COMM": "SAPHANADB",
+    "TCODE": "database owner",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "dxbktlds4cp_AK4_00",
+    "OK": "",
+    "COMM": "",
+    "TCODE": "rsyn",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "dxbktlds4cp_AK4_00",
+    "OK": "",
+    "COMM": "172.17.19.18",
+    "TCODE": "IP address",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "dxbktlds4cp_AK4_00",
+    "OK": "",
+    "COMM": "789",
+    "TCODE": "kernel release",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "dxbktlds4cp_AK4_00",
+    "OK": "",
+    "COMM": "SQLDBC 2.18.022.1693920292",
+    "TCODE": "database library",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "dxbktlds4cp_AK4_00",
+    "OK": "",
+    "COMM": "Linux GNU SLES-15 x86_64 cc10.3.0 use-pr230809 Aug 09 2023",
+    "TCODE": "kernel compiled",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "dxbktlds4cp_AK4_00",
+    "OK": "",
+    "COMM": "200",
+    "TCODE": "kernel patch level",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "dxbktlds4cp_AK4_00",
+    "OK": "",
+    "COMM": "755, 756, 757, 789",
+    "TCODE": "supported SAP vers.",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "dxbktlds4cp_AK4_00",
+    "OK": "",
+    "COMM": "HANA 1.0, HANA 2.0",
+    "TCODE": "supported database",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "dxbktlds4cp_AK4_00",
+    "OK": "",
+    "COMM": "Linux, GitVers: , GitHash:",
+    "TCODE": "valid OP system",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "dxbktlds4cp_AK4_00",
+    "OK": "",
+    "COMM": "5.14.0-427.42.1.el9_4.x86_64",
+    "TCODE": "OP system release",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "dxbktlds4cp_AK4_00",
+    "OK": "",
+    "COMM": "3060",
+    "TCODE": "ABAP load version",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "dxbktlds4cp_AK4_00",
+    "OK": "",
+    "COMM": "49",
+    "TCODE": "CUA load version",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "dxbktlds4cp_AK4_00",
+    "OK": "",
+    "COMM": "opt",
+    "TCODE": "kernel kind",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "dxbktlds4cp_AK4_00",
+    "OK": "",
+    "COMM": "valid",
+    "TCODE": "relinfo",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "dxbktlds4cp_AK4_00",
+    "OK": "",
+    "COMM": "2",
+    "TCODE": "hot package level",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "dxbktlds4cp_AK4_00",
+    "OK": "",
+    "COMM": "757",
+    "TCODE": "base release",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "dxbktlds4cp_AK4_00",
+    "OK": "",
+    "COMM": "16114884",
+    "TCODE": "PHYS_MEM",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "dxbktlds4cp_AK4_00",
+    "OK": "",
+    "COMM": "353892",
+    "TCODE": "FREE_MEM",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "dxbktlds4cp_AK4_00",
+    "OK": "",
+    "COMM": "22020092",
+    "TCODE": "SWAP_CONF",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "dxbktlds4cp_AK4_00",
+    "OK": "",
+    "COMM": "10088404",
+    "TCODE": "SWAP_FREE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "dxbktlds4cp_AK4_00",
+    "OK": "",
+    "COMM": "22020092",
+    "TCODE": "SWAP_SIZE",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "dxbktlds4cp_AK4_00",
+    "OK": "",
+    "COMM": "22020092",
+    "TCODE": "SWAP_MAX",
+    "LOGSYS": "AK4"
+  },
+  {
+    "STEP": "dxbktlds4cp_AK4_00",
+    "OK": "",
+    "COMM": "4",
+    "TCODE": "CPU_COUNT",
+    "LOGSYS": "AK4"
+  }
+]
