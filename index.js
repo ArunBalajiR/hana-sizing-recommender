@@ -243,6 +243,13 @@ function generateLast30Days() {
             });
             let logs = st03nLogs.USERTCODE;
             //iterate logs and get the sum of DCOUNT field
+
+            if (!logs || logs.length === 0) {
+                console.warn(`No logs found for period: ${period}`);
+                continue; // Skip empty logs
+            }
+            
+
             let totalTransactionsForLog = 0;
             for (var log of logs) {
                 totalTransactionsForLog = totalTransactionsForLog + parseFloat(log.DCOUNT);
@@ -346,7 +353,14 @@ function generateLast30Days() {
         });
         fs.writeFileSync('allTransactionDetail.json', JSON.stringify(toExcel, null, 2));
 
+        if (allTransactionDetail.length === 0) {
+            console.error("No transaction details found. Exiting calculation.");
+            return;
+        }
+        
+
         const totalWeightedResponse = allTransactionDetail.reduce((acc, { DCOUNT, CPUTI }) => acc + parseInt(CPUTI), 0);
+        
         console.log("Total Weighted Response Time:", totalWeightedResponse);
         const totalDCount = allTransactionDetail.reduce((acc, { DCOUNT }) => acc + parseInt(DCOUNT), 0);
         console.log("Total DCount:", totalDCount);
