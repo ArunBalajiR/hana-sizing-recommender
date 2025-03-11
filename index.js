@@ -5,24 +5,35 @@ var rfc = require("node-rfc");
 var json2xls = require("json2xls");
 const Scripter = require('./helper');
 
-
-const clientAK4 = new rfc.Client({
+const clientAK4 = {
     user: "KAAR-3090",
     passwd: "KTern@2019",
     ashost: "172.17.19.18",
     sysnr: "00",
     client: "210",
     lang: "EN",
-});
+};
 
-const clientMV4 = new rfc.Client({
+const clientMV4 = {
     user: "K2225",
     passwd: "Kaar@54321",
     ashost: "172.17.19.22",
     sysnr: "00",
     client: "100",
     lang: "EN",
-});
+}
+
+const clientAlBatha = {
+    user: "RFCKTERN",
+    passwd: "@lbath@202%",
+    ashost: "192.168.165.174",
+    sysnr: "65",
+    client: "100",
+    lang: "EN",
+}
+
+const client = new rfc.Client(clientAlBatha);
+
 
 //CONNECTION 
 async function connectToSAP(client) {
@@ -43,8 +54,8 @@ function closeSAPConnection(client) {
 
 function callRFC(functionName, params = {}) {
     return new Promise((resolve, reject) => {
-        // clientMV4.invoke(functionName, params, (err, result) => {
-            clientAK4.invoke(functionName, params, (err, result) => {
+        client.invoke(functionName, params, (err, result) => {
+        // clientAK4.invoke(functionName, params, (err, result) => {
             if (err) {
                 reject(err);
             } else {
@@ -82,7 +93,7 @@ async function getTableSize(tableName) {
     }]
 
 
-    const tableTypes = await clientMV4.call('RFC_READ_TABLE', {
+    const tableTypes = await client.call('RFC_READ_TABLE', {
         QUERY_TABLE: 'DD03L',
         DELIMITER: '|',
         OPTIONS: tableTypeOption
@@ -183,13 +194,17 @@ function generateLast30Days() {
 // ------------------- MAIN FUNCTION -------------------
 (async () => {
     try {
-        // await connectToSAP(clientMV4);
-        await connectToSAP(clientAK4);
+        await connectToSAP(client);
+        // await connectToSAP(clientAK4);
 
 
         //SYSTEM INFO
         // let systemInfo = await fetchSystemInfo();
-        // console.log(systemInfo);
+
+        // const dbSizeInfo = await callRFC("DB6_HIS_OVERVIEW", {});
+        // console.log(dbSizeInfo);
+
+        // process.exit();
 
         //READ TABLE RECORD COUNT
         // const tableRecordCount = await callRFC("EM_GET_NUMBER_OF_ENTRIES",
@@ -326,10 +341,10 @@ function generateLast30Days() {
                 "Transaction": log.ENTRY_ID,
                 "DCount": log.DCOUNT,
                 "Response Time": log.CPUTI,
-                "Average Response Time" : parseInt(log.CPUTI) / parseInt(log.DCOUNT)
+                "Average Response Time": parseInt(log.CPUTI) / parseInt(log.DCOUNT)
             }
         });
-        fs.writeFileSync('allTransactionDetail.json', JSON.stringify(toExcel,null,2));
+        fs.writeFileSync('allTransactionDetail.json', JSON.stringify(toExcel, null, 2));
 
         const totalWeightedResponse = allTransactionDetail.reduce((acc, { DCOUNT, CPUTI }) => acc + parseInt(CPUTI), 0);
         console.log("Total Weighted Response Time:", totalWeightedResponse);
@@ -339,18 +354,66 @@ function generateLast30Days() {
         const weightedAvgResponseTime = (totalWeightedResponse / totalDCount);
 
         console.log("Weighted Average Response Time:", weightedAvgResponseTime);
-        let weightedResponseTimeInSeconds = weightedAvgResponseTime/1000;
+        let weightedResponseTimeInSeconds = weightedAvgResponseTime / 1000;
 
         console.log("Weighted Average Response Time (Seconds):", weightedResponseTimeInSeconds);
 
         // Calculate SAPS value:
         const sapsValue = transactionsPerHrPeakFactor / weightedResponseTimeInSeconds;
-        console.log("SAPS Value:", sapsValue);
+        console.log("Recommended SAPS Value:", sapsValue);
+
+        // Calculate Cores:
+        const core = Math.ceil(sapsValue / 2000) * 2;
+        console.log("Recommended Core:", core);
+
+        //Calculate Memory
+        const baseMemory = 64;
+        const memory = sapsValue / 333;
+        // console.log("Recommended Memory : ", memory);
+        let recommendedMemory = baseMemory;
+        while (recommendedMemory < memory) {
+            recommendedMemory *= 2;
+        }
+        console.log("Recommended RoundOfMeory : ", recommendedMemory);
+
+        // READ FILE
+        let aws_hanaCertifiedInstances = fs.readFileSync('./aws_instances.json');
+        let instances = JSON.parse(aws_hanaCertifiedInstances);
+        // Assume instances is your list of instance objects and user inputs are defined.
+        const suitableInstances = instances.filter(instance =>
+            instance.SAPS >= sapsValue &&
+            instance.vCPU >= core &&
+            instance.Memory.value >= recommendedMemory
+        );
+
+        // Optionally, rank the filtered instances.
+        const bestInstance = suitableInstances.reduce((best, current) => {
+            // Compute a simple score based on the difference from required values.
+            const bestScore = (best.SAPS - sapsValue) + (best.vCPU - core) + (best.Memory.value - memory);
+            const currentScore = (current.SAPS - sapsValue) + (current.vCPU - core) + (current.Memory.value - memory);
+            console.log(currentScore);
+            return currentScore < bestScore ? current : best;
+        });
         
-        //CALCULATE 
 
+        console.log("Best instance:", bestInstance);
 
-
+        console.log("Getting TABLE MEMOPRY");
+        const dbSize = await client.call('RFC_READ_TABLE', {
+            QUERY_TABLE: 'USR02',
+            DELIMITER: '|',
+            FIELDS: [
+                { FIELDNAME: "BNAME" },  //user name
+                { FIELDNAME: "USTYPE" }, //user type
+                { FIELDNAME: "CLASS"},   //user group
+                { FIELDNAME: "ACCNT"},   //account id
+                { FIELDNAME: "TRDATE"},  //last logon ddate
+                { FIELDNAME: "GLTGV"},   //user valid from
+                { FIELDNAME: "GLTGB"},   //user valid to
+                { FIELDNAME: "SECURITY_POLICY"},  //security policy
+            ]
+        });
+        console.log(dbSize);
     } catch (error) {
         console.error("Error during SAP calls:", error);
     } finally {

@@ -1,0 +1,2282 @@
+[
+    {
+      "Name":"r3.2xlarge",
+      "vCPU":8,
+      "Base Clock":{
+        "value":2.5,
+        "prefix":"",
+        "suffix":"GHz"
+      },
+      "Memory":{
+        "value":61,
+        "prefix":"",
+        "suffix":"GB"
+      },
+      "Processor":"Intel Xeon E5-2670 v2 (Ivy Bridge)",
+      "SAPS":7980,
+      "#":13,
+      "On-Demand - Avg. Costs Per Hour":{
+        "value":0.8018,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Hour":{
+        "value":0.2238,
+        "prefix":"$",
+        "suffix":""
+      },
+      "On-Demand -  Avg. Costs Per Month":{
+        "value":585.29,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Month":{
+        "value":163.37,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (No) - Avg. Costs Per Month":{
+        "value":419.41,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (All) - Avg. Costs Per Month":{
+        "value":353.8,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (No) - Avg. Costs Per Month":{
+        "value":254.04,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (All) - Avg. Costs Per Month":{
+        "value":233.69,
+        "prefix":"$",
+        "suffix":""
+      }
+    },
+    {
+      "Name":"r3.4xlarge",
+      "vCPU":16,
+      "Base Clock":{
+        "value":2.5,
+        "prefix":"",
+        "suffix":"GHz"
+      },
+      "Memory":{
+        "value":122,
+        "prefix":"",
+        "suffix":"GB"
+      },
+      "Processor":"Intel Xeon E5-2670 v2 (Ivy Bridge)",
+      "SAPS":15960,
+      "#":13,
+      "On-Demand - Avg. Costs Per Hour":{
+        "value":1.6036,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Hour":{
+        "value":0.4477,
+        "prefix":"$",
+        "suffix":""
+      },
+      "On-Demand -  Avg. Costs Per Month":{
+        "value":1170.64,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Month":{
+        "value":326.85,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (No) - Avg. Costs Per Month":{
+        "value":838.88,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (All) - Avg. Costs Per Month":{
+        "value":707.78,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (No) - Avg. Costs Per Month":{
+        "value":507.35,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (All) - Avg. Costs Per Month":{
+        "value":467.34,
+        "prefix":"$",
+        "suffix":""
+      }
+    },
+    {
+      "Name":"r3.8xlarge",
+      "vCPU":32,
+      "Base Clock":{
+        "value":2.5,
+        "prefix":"",
+        "suffix":"GHz"
+      },
+      "Memory":{
+        "value":244,
+        "prefix":"",
+        "suffix":"GB"
+      },
+      "Processor":"Intel Xeon E5-2670 v2 (Ivy Bridge)",
+      "SAPS":31920,
+      "#":13,
+      "On-Demand - Avg. Costs Per Hour":{
+        "value":3.2072,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Hour":{
+        "value":0.8435,
+        "prefix":"$",
+        "suffix":""
+      },
+      "On-Demand -  Avg. Costs Per Month":{
+        "value":2341.28,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Month":{
+        "value":615.75,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (No) - Avg. Costs Per Month":{
+        "value":1677.76,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (All) - Avg. Costs Per Month":{
+        "value":1415.55,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (No) - Avg. Costs Per Month":{
+        "value":1016.16,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (All) - Avg. Costs Per Month":{
+        "value":934.63,
+        "prefix":"$",
+        "suffix":""
+      }
+    },
+    {
+      "Name":"r4.8xlarge",
+      "vCPU":32,
+      "Base Clock":{
+        "value":2.3,
+        "prefix":"",
+        "suffix":"GHz"
+      },
+      "Memory":{
+        "value":244,
+        "prefix":"",
+        "suffix":"GB"
+      },
+      "Processor":"Intel Xeon E5-2686 v4 (Broadwell)",
+      "SAPS":38200,
+      "#":17,
+      "On-Demand - Avg. Costs Per Hour":{
+        "value":2.5314,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Hour":{
+        "value":0.8104,
+        "prefix":"$",
+        "suffix":""
+      },
+      "On-Demand -  Avg. Costs Per Month":{
+        "value":1847.95,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Month":{
+        "value":591.62,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (No) - Avg. Costs Per Month":{
+        "value":1165.68,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (All) - Avg. Costs Per Month":{
+        "value":1086.61,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (No) - Avg. Costs Per Month":{
+        "value":797.46,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (All) - Avg. Costs Per Month":{
+        "value":695.15,
+        "prefix":"$",
+        "suffix":""
+      }
+    },
+    {
+      "Name":"r5.8xlarge",
+      "vCPU":32,
+      "Base Clock":{
+        "value":3.1,
+        "prefix":"",
+        "suffix":"GHz"
+      },
+      "Memory":{
+        "value":256,
+        "prefix":"",
+        "suffix":"GB"
+      },
+      "Processor":"Intel Xeon Platinum 8175",
+      "SAPS":46257,
+      "#":34,
+      "On-Demand - Avg. Costs Per Hour":{
+        "value":2.4589,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Hour":{
+        "value":0.7178,
+        "prefix":"$",
+        "suffix":""
+      },
+      "On-Demand -  Avg. Costs Per Month":{
+        "value":1794.96,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Month":{
+        "value":523.96,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (No) - Avg. Costs Per Month":{
+        "value":1089.47,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (All) - Avg. Costs Per Month":{
+        "value":1016.91,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (No) - Avg. Costs Per Month":{
+        "value":747.45,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (All) - Avg. Costs Per Month":{
+        "value":650.46,
+        "prefix":"$",
+        "suffix":""
+      }
+    },
+    {
+      "Name":"r5b.8xlarge",
+      "vCPU":32,
+      "Base Clock":{
+        "value":3.1,
+        "prefix":"",
+        "suffix":"GHz"
+      },
+      "Memory":{
+        "value":256,
+        "prefix":"",
+        "suffix":"GB"
+      },
+      "Processor":"Intel Xeon Platinum 8259 (Cascade Lake)",
+      "SAPS":46257,
+      "#":14,
+      "On-Demand - Avg. Costs Per Hour":{
+        "value":2.7634,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Hour":{
+        "value":1.1441,
+        "prefix":"$",
+        "suffix":""
+      },
+      "On-Demand -  Avg. Costs Per Month":{
+        "value":2017.25,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Month":{
+        "value":835.17,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (No) - Avg. Costs Per Month":{
+        "value":1271.49,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (All) - Avg. Costs Per Month":{
+        "value":1186.72,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (No) - Avg. Costs Per Month":{
+        "value":824,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (All) - Avg. Costs Per Month":{
+        "value":717.18,
+        "prefix":"$",
+        "suffix":""
+      }
+    },
+    {
+      "Name":"r6i.8xlarge",
+      "vCPU":32,
+      "Base Clock":{
+        "value":3.5,
+        "prefix":"",
+        "suffix":"GHz"
+      },
+      "Memory":{
+        "value":256,
+        "prefix":"",
+        "suffix":"GB"
+      },
+      "Processor":"Intel Xeon 8375C (Ice Lake)",
+      "SAPS":49013,
+      "#":37,
+      "On-Demand - Avg. Costs Per Hour":{
+        "value":2.3684,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Hour":{
+        "value":0.7327,
+        "prefix":"$",
+        "suffix":""
+      },
+      "On-Demand -  Avg. Costs Per Month":{
+        "value":1728.91,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Month":{
+        "value":534.89,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (No) - Avg. Costs Per Month":{
+        "value":1119.9,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (All) - Avg. Costs Per Month":{
+        "value":1045.23,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (No) - Avg. Costs Per Month":{
+        "value":767.9,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (All) - Avg. Costs Per Month":{
+        "value":668.36,
+        "prefix":"$",
+        "suffix":""
+      }
+    },
+    {
+      "Name":"r7i.8xlarge",
+      "vCPU":32,
+      "Base Clock":{
+        "value":3.2,
+        "prefix":"",
+        "suffix":"GHz"
+      },
+      "Memory":{
+        "value":256,
+        "prefix":"",
+        "suffix":"GB"
+      },
+      "Processor":"Intel Xeon Scalable (Sapphire Rapids)",
+      "SAPS":66480,
+      "#":25,
+      "On-Demand - Avg. Costs Per Hour":{
+        "value":2.4247,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Hour":{
+        "value":0.8539,
+        "prefix":"$",
+        "suffix":""
+      },
+      "On-Demand -  Avg. Costs Per Month":{
+        "value":1770.04,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Month":{
+        "value":623.32,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (No) - Avg. Costs Per Month":{
+        "value":1163.88,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (All) - Avg. Costs Per Month":{
+        "value":1086.28,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (No) - Avg. Costs Per Month":{
+        "value":798.08,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (All) - Avg. Costs Per Month":{
+        "value":694.62,
+        "prefix":"$",
+        "suffix":""
+      }
+    },
+    {
+      "Name":"r5.12xlarge",
+      "vCPU":48,
+      "Base Clock":{
+        "value":3.1,
+        "prefix":"",
+        "suffix":"GHz"
+      },
+      "Memory":{
+        "value":384,
+        "prefix":"",
+        "suffix":"GB"
+      },
+      "Processor":"Intel Xeon Platinum 8175",
+      "SAPS":69385,
+      "#":34,
+      "On-Demand - Avg. Costs Per Hour":{
+        "value":3.6548,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Hour":{
+        "value":1.0229,
+        "prefix":"$",
+        "suffix":""
+      },
+      "On-Demand -  Avg. Costs Per Month":{
+        "value":2668,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Month":{
+        "value":746.74,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (No) - Avg. Costs Per Month":{
+        "value":1634.33,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (All) - Avg. Costs Per Month":{
+        "value":1525.37,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (No) - Avg. Costs Per Month":{
+        "value":1121.02,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (All) - Avg. Costs Per Month":{
+        "value":975.69,
+        "prefix":"$",
+        "suffix":""
+      }
+    },
+    {
+      "Name":"r5b.12xlarge",
+      "vCPU":48,
+      "Base Clock":{
+        "value":3.1,
+        "prefix":"",
+        "suffix":"GHz"
+      },
+      "Memory":{
+        "value":384,
+        "prefix":"",
+        "suffix":"GB"
+      },
+      "Processor":"Intel Xeon Platinum 8259 (Cascade Lake)",
+      "SAPS":69385,
+      "#":14,
+      "On-Demand - Avg. Costs Per Hour":{
+        "value":4.145,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Hour":{
+        "value":1.4565,
+        "prefix":"$",
+        "suffix":""
+      },
+      "On-Demand -  Avg. Costs Per Month":{
+        "value":3025.88,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Month":{
+        "value":1063.26,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (No) - Avg. Costs Per Month":{
+        "value":1907.23,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (All) - Avg. Costs Per Month":{
+        "value":1780.1,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (No) - Avg. Costs Per Month":{
+        "value":1235.99,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (All) - Avg. Costs Per Month":{
+        "value":1075.77,
+        "prefix":"$",
+        "suffix":""
+      }
+    },
+    {
+      "Name":"r6i.12xlarge",
+      "vCPU":48,
+      "Base Clock":{
+        "value":3.5,
+        "prefix":"",
+        "suffix":"GHz"
+      },
+      "Memory":{
+        "value":384,
+        "prefix":"",
+        "suffix":"GB"
+      },
+      "Processor":"Intel Xeon 8375C (Ice Lake)",
+      "SAPS":73519,
+      "#":37,
+      "On-Demand - Avg. Costs Per Hour":{
+        "value":3.5526,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Hour":{
+        "value":1.0294,
+        "prefix":"$",
+        "suffix":""
+      },
+      "On-Demand -  Avg. Costs Per Month":{
+        "value":2593.36,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Month":{
+        "value":751.47,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (No) - Avg. Costs Per Month":{
+        "value":1679.85,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (All) - Avg. Costs Per Month":{
+        "value":1567.85,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (No) - Avg. Costs Per Month":{
+        "value":1151.85,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (All) - Avg. Costs Per Month":{
+        "value":1002.53,
+        "prefix":"$",
+        "suffix":""
+      }
+    },
+    {
+      "Name":"r7i.12xlarge",
+      "vCPU":48,
+      "Base Clock":{
+        "value":3.2,
+        "prefix":"",
+        "suffix":"GHz"
+      },
+      "Memory":{
+        "value":384,
+        "prefix":"",
+        "suffix":"GB"
+      },
+      "Processor":"Intel Xeon Scalable (Sapphire Rapids)",
+      "SAPS":99720,
+      "#":25,
+      "On-Demand - Avg. Costs Per Hour":{
+        "value":3.6371,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Hour":{
+        "value":1.0842,
+        "prefix":"$",
+        "suffix":""
+      },
+      "On-Demand -  Avg. Costs Per Month":{
+        "value":2655.06,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Month":{
+        "value":791.47,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (No) - Avg. Costs Per Month":{
+        "value":1745.82,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (All) - Avg. Costs Per Month":{
+        "value":1629.42,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (No) - Avg. Costs Per Month":{
+        "value":1197.12,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (All) - Avg. Costs Per Month":{
+        "value":1041.94,
+        "prefix":"$",
+        "suffix":""
+      }
+    },
+    {
+      "Name":"r4.16xlarge",
+      "vCPU":64,
+      "Base Clock":{
+        "value":2.3,
+        "prefix":"",
+        "suffix":"GHz"
+      },
+      "Memory":{
+        "value":488,
+        "prefix":"",
+        "suffix":"GB"
+      },
+      "Processor":"Intel Xeon E5-2686 v4 (Broadwell)",
+      "SAPS":76400,
+      "#":17,
+      "On-Demand - Avg. Costs Per Hour":{
+        "value":5.0629,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Hour":{
+        "value":1.5495,
+        "prefix":"$",
+        "suffix":""
+      },
+      "On-Demand -  Avg. Costs Per Month":{
+        "value":3695.9,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Month":{
+        "value":1131.14,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (No) - Avg. Costs Per Month":{
+        "value":2331.35,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (All) - Avg. Costs Per Month":{
+        "value":2173.25,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (No) - Avg. Costs Per Month":{
+        "value":1594.92,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (All) - Avg. Costs Per Month":{
+        "value":1390.3,
+        "prefix":"$",
+        "suffix":""
+      }
+    },
+    {
+      "Name":"r5.16xlarge",
+      "vCPU":64,
+      "Base Clock":{
+        "value":3.1,
+        "prefix":"",
+        "suffix":"GHz"
+      },
+      "Memory":{
+        "value":512,
+        "prefix":"",
+        "suffix":"GB"
+      },
+      "Processor":"Intel Xeon Platinum 8175",
+      "SAPS":92513,
+      "#":32,
+      "On-Demand - Avg. Costs Per Hour":{
+        "value":4.7426,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Hour":{
+        "value":1.3873,
+        "prefix":"$",
+        "suffix":""
+      },
+      "On-Demand -  Avg. Costs Per Month":{
+        "value":3462.12,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Month":{
+        "value":1012.72,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (No) - Avg. Costs Per Month":{
+        "value":2179.1,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (All) - Avg. Costs Per Month":{
+        "value":2033.84,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (No) - Avg. Costs Per Month":{
+        "value":1494.59,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (All) - Avg. Costs Per Month":{
+        "value":1300.92,
+        "prefix":"$",
+        "suffix":""
+      }
+    },
+    {
+      "Name":"r5b.16xlarge",
+      "vCPU":64,
+      "Base Clock":{
+        "value":3.1,
+        "prefix":"",
+        "suffix":"GHz"
+      },
+      "Memory":{
+        "value":512,
+        "prefix":"",
+        "suffix":"GB"
+      },
+      "Processor":"Intel Xeon Platinum 8259 (Cascade Lake)",
+      "SAPS":92513,
+      "#":14,
+      "On-Demand - Avg. Costs Per Hour":{
+        "value":5.5267,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Hour":{
+        "value":2.1277,
+        "prefix":"$",
+        "suffix":""
+      },
+      "On-Demand -  Avg. Costs Per Month":{
+        "value":4034.51,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Month":{
+        "value":1553.22,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (No) - Avg. Costs Per Month":{
+        "value":2542.97,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (All) - Avg. Costs Per Month":{
+        "value":2373.42,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (No) - Avg. Costs Per Month":{
+        "value":1647.99,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (All) - Avg. Costs Per Month":{
+        "value":1434.36,
+        "prefix":"$",
+        "suffix":""
+      }
+    },
+    {
+      "Name":"r6i.16xlarge",
+      "vCPU":64,
+      "Base Clock":{
+        "value":3.5,
+        "prefix":"",
+        "suffix":"GHz"
+      },
+      "Memory":{
+        "value":512,
+        "prefix":"",
+        "suffix":"GB"
+      },
+      "Processor":"Intel Xeon 8375C (Ice Lake)",
+      "SAPS":98025,
+      "#":37,
+      "On-Demand - Avg. Costs Per Hour":{
+        "value":4.7367,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Hour":{
+        "value":1.3387,
+        "prefix":"$",
+        "suffix":""
+      },
+      "On-Demand -  Avg. Costs Per Month":{
+        "value":3457.82,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Month":{
+        "value":977.28,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (No) - Avg. Costs Per Month":{
+        "value":2239.8,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (All) - Avg. Costs Per Month":{
+        "value":2090.49,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (No) - Avg. Costs Per Month":{
+        "value":1535.8,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (All) - Avg. Costs Per Month":{
+        "value":1336.72,
+        "prefix":"$",
+        "suffix":""
+      }
+    },
+    {
+      "Name":"r7i.16xlarge",
+      "vCPU":64,
+      "Base Clock":{
+        "value":3.2,
+        "prefix":"",
+        "suffix":"GHz"
+      },
+      "Memory":{
+        "value":512,
+        "prefix":"",
+        "suffix":"GB"
+      },
+      "Processor":"Intel Xeon Scalable (Sapphire Rapids)",
+      "SAPS":105500,
+      "#":25,
+      "On-Demand - Avg. Costs Per Hour":{
+        "value":4.8494,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Hour":{
+        "value":1.4624,
+        "prefix":"$",
+        "suffix":""
+      },
+      "On-Demand -  Avg. Costs Per Month":{
+        "value":3540.08,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Month":{
+        "value":1067.52,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (No) - Avg. Costs Per Month":{
+        "value":2327.76,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (All) - Avg. Costs Per Month":{
+        "value":2172.58,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (No) - Avg. Costs Per Month":{
+        "value":1596.16,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (All) - Avg. Costs Per Month":{
+        "value":1389.25,
+        "prefix":"$",
+        "suffix":""
+      }
+    },
+    {
+      "Name":"x1.16xlarge",
+      "vCPU":64,
+      "Base Clock":{
+        "value":2.3,
+        "prefix":"",
+        "suffix":"GHz"
+      },
+      "Memory":{
+        "value":976,
+        "prefix":"",
+        "suffix":"GB"
+      },
+      "Processor":"High Frequency Intel Xeon E7-8880 v3 (Haswell)",
+      "SAPS":65750,
+      "#":19,
+      "On-Demand - Avg. Costs Per Hour":{
+        "value":8.7315,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Hour":{
+        "value":2.1941,
+        "prefix":"$",
+        "suffix":""
+      },
+      "On-Demand -  Avg. Costs Per Month":{
+        "value":6373.98,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Month":{
+        "value":1601.68,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (No) - Avg. Costs Per Month":{
+        "value":3926.55,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (All) - Avg. Costs Per Month":{
+        "value":3664.74,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (No) - Avg. Costs Per Month":{
+        "value":2048.57,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (All) - Avg. Costs Per Month":{
+        "value":1783.02,
+        "prefix":"$",
+        "suffix":""
+      }
+    },
+    {
+      "Name":"x2idn.16xlarge",
+      "vCPU":64,
+      "Base Clock":{
+        "value":3.5,
+        "prefix":"",
+        "suffix":"GHz"
+      },
+      "Memory":{
+        "value":1024,
+        "prefix":"",
+        "suffix":"GB"
+      },
+      "Processor":"Intel Xeon Scalable (Icelake)",
+      "SAPS":98025,
+      "#":29,
+      "On-Demand - Avg. Costs Per Hour":{
+        "value":8.5715,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Hour":{
+        "value":2.1448,
+        "prefix":"$",
+        "suffix":""
+      },
+      "On-Demand -  Avg. Costs Per Month":{
+        "value":6257.21,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Month":{
+        "value":1565.74,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (No) - Avg. Costs Per Month":{
+        "value":3850.89,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (All) - Avg. Costs Per Month":{
+        "value":3594.16,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (No) - Avg. Costs Per Month":{
+        "value":2007.87,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (All) - Avg. Costs Per Month":{
+        "value":1747.59,
+        "prefix":"$",
+        "suffix":""
+      }
+    },
+    {
+      "Name":"r5.24xlarge",
+      "vCPU":96,
+      "Base Clock":{
+        "value":3.1,
+        "prefix":"",
+        "suffix":"GHz"
+      },
+      "Memory":{
+        "value":768,
+        "prefix":"",
+        "suffix":"GB"
+      },
+      "Processor":"Intel Xeon Platinum 8175",
+      "SAPS":138770,
+      "#":32,
+      "On-Demand - Avg. Costs Per Hour":{
+        "value":7.114,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Hour":{
+        "value":1.8382,
+        "prefix":"$",
+        "suffix":""
+      },
+      "On-Demand -  Avg. Costs Per Month":{
+        "value":5193.22,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Month":{
+        "value":1341.86,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (No) - Avg. Costs Per Month":{
+        "value":3268.59,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (All) - Avg. Costs Per Month":{
+        "value":3050.76,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (No) - Avg. Costs Per Month":{
+        "value":2242.09,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (All) - Avg. Costs Per Month":{
+        "value":1951.38,
+        "prefix":"$",
+        "suffix":""
+      }
+    },
+    {
+      "Name":"r5.metal",
+      "vCPU":96,
+      "Base Clock":{
+        "value":3.1,
+        "prefix":"",
+        "suffix":"GHz"
+      },
+      "Memory":{
+        "value":768,
+        "prefix":"",
+        "suffix":"GB"
+      },
+      "Processor":"Intel Xeon Platinum 8175",
+      "SAPS":143230,
+      "#":32,
+      "On-Demand - Avg. Costs Per Hour":{
+        "value":7.114,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Hour":{
+        "value":1.776,
+        "prefix":"$",
+        "suffix":""
+      },
+      "On-Demand -  Avg. Costs Per Month":{
+        "value":5193.22,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Month":{
+        "value":1296.45,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (No) - Avg. Costs Per Month":{
+        "value":3268.59,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (All) - Avg. Costs Per Month":{
+        "value":3050.76,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (No) - Avg. Costs Per Month":{
+        "value":2242.09,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (All) - Avg. Costs Per Month":{
+        "value":1951.38,
+        "prefix":"$",
+        "suffix":""
+      }
+    },
+    {
+      "Name":"r5b.24xlarge",
+      "vCPU":96,
+      "Base Clock":{
+        "value":3.1,
+        "prefix":"",
+        "suffix":"GHz"
+      },
+      "Memory":{
+        "value":768,
+        "prefix":"",
+        "suffix":"GB"
+      },
+      "Processor":"Intel Xeon Platinum 8259 (Cascade Lake)",
+      "SAPS":138770,
+      "#":14,
+      "On-Demand - Avg. Costs Per Hour":{
+        "value":8.2901,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Hour":{
+        "value":3.0146,
+        "prefix":"$",
+        "suffix":""
+      },
+      "On-Demand -  Avg. Costs Per Month":{
+        "value":6051.76,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Month":{
+        "value":2200.64,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (No) - Avg. Costs Per Month":{
+        "value":3814.46,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (All) - Avg. Costs Per Month":{
+        "value":3560.15,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (No) - Avg. Costs Per Month":{
+        "value":2471.99,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (All) - Avg. Costs Per Month":{
+        "value":2151.54,
+        "prefix":"$",
+        "suffix":""
+      }
+    },
+    {
+      "Name":"r5b.metal",
+      "vCPU":96,
+      "Base Clock":{
+        "value":3.1,
+        "prefix":"",
+        "suffix":"GHz"
+      },
+      "Memory":{
+        "value":768,
+        "prefix":"",
+        "suffix":"GB"
+      },
+      "Processor":"Intel Xeon Platinum 8259 (Cascade Lake)",
+      "SAPS":143230,
+      "#":14,
+      "On-Demand - Avg. Costs Per Hour":{
+        "value":8.2901,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Hour":{
+        "value":1.9743,
+        "prefix":"$",
+        "suffix":""
+      },
+      "On-Demand -  Avg. Costs Per Month":{
+        "value":6051.76,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Month":{
+        "value":1441.27,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (No) - Avg. Costs Per Month":{
+        "value":3814.46,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (All) - Avg. Costs Per Month":{
+        "value":3560.15,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (No) - Avg. Costs Per Month":{
+        "value":2471.99,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (All) - Avg. Costs Per Month":{
+        "value":2151.54,
+        "prefix":"$",
+        "suffix":""
+      }
+    },
+    {
+      "Name":"r6i.24xlarge",
+      "vCPU":96,
+      "Base Clock":{
+        "value":3.5,
+        "prefix":"",
+        "suffix":"GHz"
+      },
+      "Memory":{
+        "value":768,
+        "prefix":"",
+        "suffix":"GB"
+      },
+      "Processor":"Intel Xeon 8375C (Ice Lake)",
+      "SAPS":147038,
+      "#":37,
+      "On-Demand - Avg. Costs Per Hour":{
+        "value":7.1051,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Hour":{
+        "value":1.9581,
+        "prefix":"$",
+        "suffix":""
+      },
+      "On-Demand -  Avg. Costs Per Month":{
+        "value":5186.72,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Month":{
+        "value":1429.43,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (No) - Avg. Costs Per Month":{
+        "value":3359.7,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (All) - Avg. Costs Per Month":{
+        "value":3135.72,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (No) - Avg. Costs Per Month":{
+        "value":2303.7,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (All) - Avg. Costs Per Month":{
+        "value":2005.07,
+        "prefix":"$",
+        "suffix":""
+      }
+    },
+    {
+      "Name":"r7i.24xlarge",
+      "vCPU":96,
+      "Base Clock":{
+        "value":3.2,
+        "prefix":"",
+        "suffix":"GHz"
+      },
+      "Memory":{
+        "value":768,
+        "prefix":"",
+        "suffix":"GB"
+      },
+      "Processor":"Intel Xeon Scalable (Sapphire Rapids)",
+      "SAPS":158250,
+      "#":25,
+      "On-Demand - Avg. Costs Per Hour":{
+        "value":7.2741,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Hour":{
+        "value":2.0942,
+        "prefix":"$",
+        "suffix":""
+      },
+      "On-Demand -  Avg. Costs Per Month":{
+        "value":5310.12,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Month":{
+        "value":1528.73,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (No) - Avg. Costs Per Month":{
+        "value":3491.64,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (All) - Avg. Costs Per Month":{
+        "value":3258.85,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (No) - Avg. Costs Per Month":{
+        "value":2394.24,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (All) - Avg. Costs Per Month":{
+        "value":2083.87,
+        "prefix":"$",
+        "suffix":""
+      }
+    },
+    {
+      "Name":"x2idn.24xlarge",
+      "vCPU":96,
+      "Base Clock":{
+        "value":3.5,
+        "prefix":"",
+        "suffix":"GHz"
+      },
+      "Memory":{
+        "value":1536,
+        "prefix":"",
+        "suffix":"GB"
+      },
+      "Processor":"Intel Xeon Scalable (Icelake)",
+      "SAPS":147038,
+      "#":29,
+      "On-Demand - Avg. Costs Per Hour":{
+        "value":12.8573,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Hour":{
+        "value":2.9181,
+        "prefix":"$",
+        "suffix":""
+      },
+      "On-Demand -  Avg. Costs Per Month":{
+        "value":9385.82,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Month":{
+        "value":2130.19,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (No) - Avg. Costs Per Month":{
+        "value":5776.33,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (All) - Avg. Costs Per Month":{
+        "value":5391.24,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (No) - Avg. Costs Per Month":{
+        "value":3011.8,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (All) - Avg. Costs Per Month":{
+        "value":2621.38,
+        "prefix":"$",
+        "suffix":""
+      }
+    },
+    {
+      "Name":"x2iedn.24xlarge",
+      "vCPU":96,
+      "Base Clock":{
+        "value":3.5,
+        "prefix":"",
+        "suffix":"GHz"
+      },
+      "Memory":{
+        "value":3072,
+        "prefix":"",
+        "suffix":"GB"
+      },
+      "Processor":"Intel Xeon Scalable (Icelake)",
+      "SAPS":141750,
+      "#":25,
+      "On-Demand - Avg. Costs Per Hour":{
+        "value":25.583,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Hour":{
+        "value":6.0968,
+        "prefix":"$",
+        "suffix":""
+      },
+      "On-Demand -  Avg. Costs Per Month":{
+        "value":18675.61,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Month":{
+        "value":4450.68,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (No) - Avg. Costs Per Month":{
+        "value":11491.11,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (All) - Avg. Costs Per Month":{
+        "value":10725.03,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (No) - Avg. Costs Per Month":{
+        "value":5990.39,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (All) - Avg. Costs Per Month":{
+        "value":5213.86,
+        "prefix":"$",
+        "suffix":""
+      }
+    },
+    {
+      "Name":"r6i.32xlarge",
+      "vCPU":128,
+      "Base Clock":{
+        "value":3.5,
+        "prefix":"",
+        "suffix":"GHz"
+      },
+      "Memory":{
+        "value":1024,
+        "prefix":"",
+        "suffix":"GB"
+      },
+      "Processor":"Intel Xeon 8375C (Ice Lake)",
+      "SAPS":196050,
+      "#":37,
+      "On-Demand - Avg. Costs Per Hour":{
+        "value":9.4735,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Hour":{
+        "value":2.5835,
+        "prefix":"$",
+        "suffix":""
+      },
+      "On-Demand -  Avg. Costs Per Month":{
+        "value":6915.63,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Month":{
+        "value":1885.95,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (No) - Avg. Costs Per Month":{
+        "value":4479.6,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (All) - Avg. Costs Per Month":{
+        "value":4180.96,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (No) - Avg. Costs Per Month":{
+        "value":3071.6,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (All) - Avg. Costs Per Month":{
+        "value":2673.43,
+        "prefix":"$",
+        "suffix":""
+      }
+    },
+    {
+      "Name":"x1.32xlarge",
+      "vCPU":128,
+      "Base Clock":{
+        "value":2.3,
+        "prefix":"",
+        "suffix":"GHz"
+      },
+      "Memory":{
+        "value":1952,
+        "prefix":"",
+        "suffix":"GB"
+      },
+      "Processor":"High Frequency Intel Xeon E7-8880 v3 (Haswell)",
+      "SAPS":131500,
+      "#":19,
+      "On-Demand - Avg. Costs Per Hour":{
+        "value":17.4627,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Hour":{
+        "value":4.1477,
+        "prefix":"$",
+        "suffix":""
+      },
+      "On-Demand -  Avg. Costs Per Month":{
+        "value":12747.8,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Month":{
+        "value":3027.84,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (No) - Avg. Costs Per Month":{
+        "value":7853.07,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (All) - Avg. Costs Per Month":{
+        "value":7329.28,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (No) - Avg. Costs Per Month":{
+        "value":4097.3,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (All) - Avg. Costs Per Month":{
+        "value":3565.84,
+        "prefix":"$",
+        "suffix":""
+      }
+    },
+    {
+      "Name":"x2idn.32xlarge",
+      "vCPU":128,
+      "Base Clock":{
+        "value":3.5,
+        "prefix":"",
+        "suffix":"GHz"
+      },
+      "Memory":{
+        "value":2048,
+        "prefix":"",
+        "suffix":"GB"
+      },
+      "Processor":"Intel Xeon Scalable (Icelake)",
+      "SAPS":196050,
+      "#":29,
+      "On-Demand - Avg. Costs Per Hour":{
+        "value":17.143,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Hour":{
+        "value":3.7967,
+        "prefix":"$",
+        "suffix":""
+      },
+      "On-Demand -  Avg. Costs Per Month":{
+        "value":12514.42,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Month":{
+        "value":2771.6,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (No) - Avg. Costs Per Month":{
+        "value":7701.77,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (All) - Avg. Costs Per Month":{
+        "value":7188.32,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (No) - Avg. Costs Per Month":{
+        "value":4015.73,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (All) - Avg. Costs Per Month":{
+        "value":3495.17,
+        "prefix":"$",
+        "suffix":""
+      }
+    },
+    {
+      "Name":"x1e.32xlarge",
+      "vCPU":128,
+      "Base Clock":{
+        "value":2.3,
+        "prefix":"",
+        "suffix":"GHz"
+      },
+      "Memory":{
+        "value":3904,
+        "prefix":"",
+        "suffix":"GB"
+      },
+      "Processor":"High Frequency Intel Xeon E7-8880 v3 (Haswell)",
+      "SAPS":131500,
+      "#":16,
+      "On-Demand - Avg. Costs Per Hour":{
+        "value":34.6128,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Hour":{
+        "value":14.4027,
+        "prefix":"$",
+        "suffix":""
+      },
+      "On-Demand -  Avg. Costs Per Month":{
+        "value":25267.35,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Month":{
+        "value":10513.94,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (No) - Avg. Costs Per Month":{
+        "value":15562.92,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (All) - Avg. Costs Per Month":{
+        "value":14525.34,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (No) - Avg. Costs Per Month":{
+        "value":8120.25,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (All) - Avg. Costs Per Month":{
+        "value":7067.66,
+        "prefix":"$",
+        "suffix":""
+      }
+    },
+    {
+      "Name":"x2iedn.32xlarge",
+      "vCPU":128,
+      "Base Clock":{
+        "value":3.5,
+        "prefix":"",
+        "suffix":"GHz"
+      },
+      "Memory":{
+        "value":4096,
+        "prefix":"",
+        "suffix":"GB"
+      },
+      "Processor":"Intel Xeon Scalable (Icelake)",
+      "SAPS":189000,
+      "#":25,
+      "On-Demand - Avg. Costs Per Hour":{
+        "value":34.1107,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Hour":{
+        "value":7.5135,
+        "prefix":"$",
+        "suffix":""
+      },
+      "On-Demand -  Avg. Costs Per Month":{
+        "value":24900.82,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Month":{
+        "value":5484.87,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (No) - Avg. Costs Per Month":{
+        "value":15321.47,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (All) - Avg. Costs Per Month":{
+        "value":14300.05,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (No) - Avg. Costs Per Month":{
+        "value":7987.19,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (All) - Avg. Costs Per Month":{
+        "value":6951.81,
+        "prefix":"$",
+        "suffix":""
+      }
+    },
+    {
+      "Name":"r7i.48xlarge",
+      "vCPU":192,
+      "Base Clock":{
+        "value":3.2,
+        "prefix":"",
+        "suffix":"GHz"
+      },
+      "Memory":{
+        "value":1536,
+        "prefix":"",
+        "suffix":"GB"
+      },
+      "Processor":"Intel Xeon Scalable (Sapphire Rapids)",
+      "SAPS":296200,
+      "#":25,
+      "On-Demand - Avg. Costs Per Hour":{
+        "value":14.5483,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Hour":{
+        "value":4.4663,
+        "prefix":"$",
+        "suffix":""
+      },
+      "On-Demand -  Avg. Costs Per Month":{
+        "value":10620.23,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Month":{
+        "value":3260.42,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (No) - Avg. Costs Per Month":{
+        "value":6983.27,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (All) - Avg. Costs Per Month":{
+        "value":6517.73,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (No) - Avg. Costs Per Month":{
+        "value":4788.48,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (All) - Avg. Costs Per Month":{
+        "value":4167.75,
+        "prefix":"$",
+        "suffix":""
+      }
+    },
+    {
+      "Name":"u-3tb1.56xlarge",
+      "vCPU":224,
+      "Base Clock":{
+        "value":2.1,
+        "prefix":"",
+        "suffix":"GHz"
+      },
+      "Memory":{
+        "value":3072,
+        "prefix":"",
+        "suffix":"GB"
+      },
+      "Processor":"Intel Xeon Scalable (Skylake)",
+      "SAPS":237750,
+      "#":13,
+      "On-Demand - Avg. Costs Per Hour":{
+        "value":32.1871,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Hour":{
+        "value":null,
+        "prefix":"$",
+        "suffix":""
+      },
+      "On-Demand -  Avg. Costs Per Month":{
+        "value":23496.6,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Month":{
+        "value":null,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (No) - Avg. Costs Per Month":{
+        "value":14479.66,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (All) - Avg. Costs Per Month":{
+        "value":13514.36,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (No) - Avg. Costs Per Month":{
+        "value":7549.46,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (All) - Avg. Costs Per Month":{
+        "value":6570.82,
+        "prefix":"$",
+        "suffix":""
+      }
+    },
+    {
+      "Name":"u-6tb1.56xlarge",
+      "vCPU":224,
+      "Base Clock":{
+        "value":2.1,
+        "prefix":"",
+        "suffix":"GHz"
+      },
+      "Memory":{
+        "value":6144,
+        "prefix":"",
+        "suffix":"GB"
+      },
+      "Processor":"Intel Xeon Scalable (Skylake)",
+      "SAPS":380770,
+      "#":23,
+      "On-Demand - Avg. Costs Per Hour":{
+        "value":54.5541,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Hour":{
+        "value":null,
+        "prefix":"$",
+        "suffix":""
+      },
+      "On-Demand -  Avg. Costs Per Month":{
+        "value":39824.47,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Month":{
+        "value":null,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (No) - Avg. Costs Per Month":{
+        "value":24541.63,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (All) - Avg. Costs Per Month":{
+        "value":22905.53,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (No) - Avg. Costs Per Month":{
+        "value":12795.6,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (All) - Avg. Costs Per Month":{
+        "value":11136.91,
+        "prefix":"$",
+        "suffix":""
+      }
+    },
+    {
+      "Name":"u-6tb1.112xlarge",
+      "vCPU":448,
+      "Base Clock":{
+        "value":2.1,
+        "prefix":"",
+        "suffix":"GHz"
+      },
+      "Memory":{
+        "value":6144,
+        "prefix":"",
+        "suffix":"GB"
+      },
+      "Processor":"Intel Xeon Scalable (Skylake)",
+      "SAPS":475500,
+      "#":23,
+      "On-Demand - Avg. Costs Per Hour":{
+        "value":64.1897,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Hour":{
+        "value":null,
+        "prefix":"$",
+        "suffix":""
+      },
+      "On-Demand -  Avg. Costs Per Month":{
+        "value":46858.47,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Month":{
+        "value":null,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (No) - Avg. Costs Per Month":{
+        "value":28876.3,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (All) - Avg. Costs Per Month":{
+        "value":26951.22,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (No) - Avg. Costs Per Month":{
+        "value":15055.63,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (All) - Avg. Costs Per Month":{
+        "value":13103.97,
+        "prefix":"$",
+        "suffix":""
+      }
+    },
+    {
+      "Name":"u-9tb1.112xlarge",
+      "vCPU":448,
+      "Base Clock":{
+        "value":2.1,
+        "prefix":"",
+        "suffix":"GHz"
+      },
+      "Memory":{
+        "value":9216,
+        "prefix":"",
+        "suffix":"GB"
+      },
+      "Processor":"Intel Xeon Scalable (Skylake)",
+      "SAPS":475500,
+      "#":16,
+      "On-Demand - Avg. Costs Per Hour":{
+        "value":94.5019,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Hour":{
+        "value":null,
+        "prefix":"$",
+        "suffix":""
+      },
+      "On-Demand -  Avg. Costs Per Month":{
+        "value":68986.39,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Month":{
+        "value":null,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (No) - Avg. Costs Per Month":{
+        "value":42518.92,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (All) - Avg. Costs Per Month":{
+        "value":39684.34,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (No) - Avg. Costs Per Month":{
+        "value":22198.25,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (All) - Avg. Costs Per Month":{
+        "value":19320.69,
+        "prefix":"$",
+        "suffix":""
+      }
+    },
+    {
+      "Name":"u-12tb1.112xlarge",
+      "vCPU":448,
+      "Base Clock":{
+        "value":2.1,
+        "prefix":"",
+        "suffix":"GHz"
+      },
+      "Memory":{
+        "value":12288,
+        "prefix":"",
+        "suffix":"GB"
+      },
+      "Processor":"Intel Xeon Scalable (Skylake)",
+      "SAPS":475500,
+      "#":16,
+      "On-Demand - Avg. Costs Per Hour":{
+        "value":128.6619,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Hour":{
+        "value":null,
+        "prefix":"$",
+        "suffix":""
+      },
+      "On-Demand -  Avg. Costs Per Month":{
+        "value":93923.16,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Month":{
+        "value":null,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (No) - Avg. Costs Per Month":{
+        "value":57888.14,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (All) - Avg. Costs Per Month":{
+        "value":54028.93,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (No) - Avg. Costs Per Month":{
+        "value":30221.04,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (All) - Avg. Costs Per Month":{
+        "value":26303.5,
+        "prefix":"$",
+        "suffix":""
+      }
+    },
+    {
+      "Name":"u-18tb1.112xlarge",
+      "vCPU":448,
+      "Base Clock":{
+        "value":2.7,
+        "prefix":"",
+        "suffix":"GHz"
+      },
+      "Memory":{
+        "value":18432,
+        "prefix":"",
+        "suffix":"GB"
+      },
+      "Processor":"Intel Xeon Platinum 8280L (Cascade Lake)",
+      "SAPS":520330,
+      "#":5,
+      "On-Demand - Avg. Costs Per Hour":{
+        "value":193.96,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Hour":{
+        "value":null,
+        "prefix":"$",
+        "suffix":""
+      },
+      "On-Demand -  Avg. Costs Per Month":{
+        "value":141590.8,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Month":{
+        "value":null,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (No) - Avg. Costs Per Month":{
+        "value":87254.62,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (All) - Avg. Costs Per Month":{
+        "value":81437.65,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (No) - Avg. Costs Per Month":{
+        "value":45493.12,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (All) - Avg. Costs Per Month":{
+        "value":39595.86,
+        "prefix":"$",
+        "suffix":""
+      }
+    },
+    {
+      "Name":"u-24tb1.112xlarge",
+      "vCPU":448,
+      "Base Clock":{
+        "value":2.7,
+        "prefix":"",
+        "suffix":"GHz"
+      },
+      "Memory":{
+        "value":24576,
+        "prefix":"",
+        "suffix":"GB"
+      },
+      "Processor":"Intel Xeon Platinum 8280L (Cascade Lake)",
+      "SAPS":508720,
+      "#":5,
+      "On-Demand - Avg. Costs Per Hour":{
+        "value":244.746,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Hour":{
+        "value":null,
+        "prefix":"$",
+        "suffix":""
+      },
+      "On-Demand -  Avg. Costs Per Month":{
+        "value":178664.58,
+        "prefix":"$",
+        "suffix":""
+      },
+      "Spot - Avg. Costs Per Month":{
+        "value":null,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (No) - Avg. Costs Per Month":{
+        "value":110101.15,
+        "prefix":"$",
+        "suffix":""
+      },
+      "1Y RI (All) - Avg. Costs Per Month":{
+        "value":102761.07,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (No) - Avg. Costs Per Month":{
+        "value":57404.93,
+        "prefix":"$",
+        "suffix":""
+      },
+      "3Y RI (All) - Avg. Costs Per Month":{
+        "value":49963.56,
+        "prefix":"$",
+        "suffix":""
+      }
+    }
+  ]
